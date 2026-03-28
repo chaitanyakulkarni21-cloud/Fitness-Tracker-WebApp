@@ -8,6 +8,9 @@ The app helps users to track their daily workouts and manage their fitness activ
 
 ---
 
+Deployed link:-https://fitness-tracker-webapp-project.onrender.com
+Author:chaitanya kulkarni 
+
 ## 🚀 Features
 
 * 🔐 User Signup and Login
